@@ -2,14 +2,14 @@
 The modes Ive made for Subrosa
 ## PLEASE READ THIS!!!!!
 
-These are some of the plugins I've made for subrosa.
+These are some of the modes I've made for subrosa.
 
 *Please give credit for anything taken from here.*
 
 
 ## Things to keep in mind
 
-Alot of these plugins are janky, broken, or made for very specific use cases.  
+Alot of these modes are janky, broken, or made for very specific use cases.  
 
 *These files are JANKY, BROKEN, OR MADE FOR VERY SPECIFIC USE CASES.*  
 
@@ -20,4 +20,4 @@ I really do not have the time or energy to keep helping people setup servers whe
 Most of these are <ins>NOT</ins> made to be customized, with alot of poor coding practices and hardcoded values, if you want to go back and change stuff keep in mind that youll probably have to find and change values.  
 
 
-That being said, if there is any questions you have that are *specific* to these plugins or files, I am more then glad to help you, and you can reach me on Discord: Dingus#1753
+That being said, if there is any questions you have that are *specific* to these modes or files, I am more then glad to help you, and you can reach me on Discord: Dingus#1753
